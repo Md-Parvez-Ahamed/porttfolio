@@ -142,6 +142,10 @@ nav a{
    
 }
 
+.skill-container{
+    display: flex;
+}
+
 /* main */
 main{
     max-width: 1140px;
