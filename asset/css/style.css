@@ -133,3 +133,17 @@ nav a{
 .about-description{
 
 }
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.about-info{
+   
+}
+
+/* main */
+main{
+    max-width: 1140px;
+    margin: auto;
+}
